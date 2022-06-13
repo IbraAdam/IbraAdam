@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbraAdam
+- 👋 Hi, I’m Ibrahim, a business development rep and junior data analyst with my company.
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Data Analytics course by Google on Coursera
 - 💞️ I’m looking to collaborate on with anyone working on data related work/project to develop my skills
