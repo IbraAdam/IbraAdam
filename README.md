@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ibrahim, a business development rep and junior data analyst with my company.
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Data Analytics course by Google on Coursera
-- 💞️ I’m looking to collaborate with anyone working on data related work/project to develop my skills
-- 📫 How to reach me - adam0542187@gmail.com or via linkedin(https://www.linkedin.com/in/ibrahim-adam530/)
+- 🌱 I’m currently learning a Data Analytics course by Google on Coursera
+- 💞️ I’m looking to collaborate with anyone working on data-related work/projects to develop my skills
+- 📫 How to reach me - adam0542187@gmail.com or via LinkedIn(https://www.linkedin.com/in/ibrahim-adam530/)
 
 <!---
 IbraAdam/IbraAdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
